@@ -1,3 +1,6 @@
+[Altera Stratix II DSP Development Board -  Stratix II DSP Development Board with a Stratix II EP2S60F1020C3N](https://www.bmisurplus.com/product/altera-stratix-ii-dsp-development-board/)
+
+
 [emethod/flopoco/src/Targets/StratixII.cpp](https://github.com/kevintownsend/flopoco/blob/efceb50d69285d9b328ba3b5b2bac4a4abd716e0/src/Targets/StratixII.cpp)
 
 [verilog-sample/Nios/led/hello_led_0/hello_led_0/hello_led.c](https://github.com/sheepsleep/verilog-sample/blob/master/Nios/led/hello_led_0/hello_led_0/hello_led.c)
